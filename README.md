@@ -26,7 +26,6 @@
 <h3 align="left">📝 Contact</h3>
 
 [![Telegram][telegram-shield]][telegram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
