@@ -1,4 +1,4 @@
-<h1 align="center">Hi [👋](https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035), I'm Diyorbek Xidirov</h1>
+<h1 align="center">Hi👋, I'm Diyorbek Xidirov</h1>
 <h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyordeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="diyordeveloper" /> </p>
