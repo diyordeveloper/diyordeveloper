@@ -20,7 +20,16 @@
 
 - ⚡ Fun fact **The fact that you met me 🤩**
 </p>
+
+<!-- CONTACT ME -->
+
 <h3 align="left">📝 Contact</h3>
+
+[![Telegram][telegram-shield]][telegram-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
 [telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=telegram&colorB=555
 [telegram-url]: https://t.me/diyorbekdeveloper
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
